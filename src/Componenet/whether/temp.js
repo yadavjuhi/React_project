@@ -4,7 +4,7 @@ const Temp = () => {
   return (
     <>
     <div className='wrap'>
-        <div className='search'>
+        <div className='search test'>
             
         </div>
     </div>
